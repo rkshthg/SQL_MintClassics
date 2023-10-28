@@ -12,7 +12,6 @@ Skills Showcased:
 2) Familiarize with a business and its data by reviewing a relational model diagram and exploring tables of data in MySQL Workbench. 
 3) Analyze inventory data using SQL queries in MySQL Workbench that retrieve data from a multiple-table relational database using SQL commands such as: select, order by, where, group by, and having.
 4) Develop recommendations and suggestions for solving a business need/problem based on data analysis.
-5) Support recommendations and suggestions for inventory reduction in the form of scripted queries.
 
 Tools Used:
 1) MySQL Workbench:  This tool is utilized for importing the database, running SQL queries, and analyzing data.
